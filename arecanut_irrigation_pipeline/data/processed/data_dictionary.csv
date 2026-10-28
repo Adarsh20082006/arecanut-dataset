@@ -1,0 +1,11 @@
+column_pattern,meaning_and_units
+historical_*,See field suffix; Open-Meteo ERA5-Land reanalysis; not station measurements
+soil_moisture_reanalysis_*_vwc,"m3/m3; model/reanalysis soil moisture, not sensor VWC"
+forecast_precipitation_sum_mm,mm/day predicted by current forecast snapshot
+forecast_precipitation_probability_max_pct,%; max hourly precipitation probability for the forecast date
+archived_forecast_*,Archived stitched forecast series; not an exact issue-time replay
+nasa_precipitation_mm_day,mm/day; NASA POWER gridded precipitation estimate
+nasa_shortwave_radiation_kwh_m2_day,kWh/m2/day; NASA POWER daily solar radiation
+soilgrids_*,ISRIC SoilGrids estimated static property; units are recorded in soilgrids_static.csv
+irrigation_applied_liters_observed,L/day only if supplied in irrigation_logs.csv; otherwise blank
+scenario_*,Synthetic counterfactual values only; not measured and not validated labels

@@ -1,0 +1,3 @@
+farm_id,latitude,longitude,irrigation_method,farm_has_irrigation_system,irrigated_area_ha,palm_age_years,palm_count,soil_texture_field
+FARM_001,12.34,76.10,drip,True,1.0,8,500,unknown
+FARM_002,12.40,76.20,drip,True,0.8,10,400,unknown

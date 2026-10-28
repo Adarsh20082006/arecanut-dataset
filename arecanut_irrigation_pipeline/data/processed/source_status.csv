@@ -1,0 +1,11 @@
+farm_id,source,status,rows,retrieved_at_utc,message
+FARM_001,Open-Meteo historical weather,success,2487,2026-10-25T10:04:36+00:00,ERA5-Land reanalysis; not farm station data
+FARM_001,NASA POWER daily,success,2487,2026-10-25T10:04:39+00:00,Gridded estimate; not farm station data
+FARM_001,Open-Meteo current + forecast,success,7,2026-10-25T10:04:40+00:00,Forecast snapshot recorded; current precipitation is not daily rainfall
+FARM_001,Open-Meteo historical forecast,success,1756,2026-10-25T10:04:56+00:00,Stitched archived series; not exact decision-time replay
+FARM_001,ISRIC SoilGrids,success,36,2026-10-25T10:05:11+00:00,Mapped static estimates; not field measurements
+FARM_002,Open-Meteo historical weather,success,2487,2026-10-25T10:05:41+00:00,ERA5-Land reanalysis; not farm station data
+FARM_002,NASA POWER daily,success,2487,2026-10-25T10:05:43+00:00,Gridded estimate; not farm station data
+FARM_002,Open-Meteo current + forecast,success,7,2026-10-25T10:05:44+00:00,Forecast snapshot recorded; current precipitation is not daily rainfall
+FARM_002,Open-Meteo historical forecast,success,1756,2026-10-25T10:05:52+00:00,Stitched archived series; not exact decision-time replay
+FARM_002,ISRIC SoilGrids,success,36,2026-10-25T10:06:03+00:00,Mapped static estimates; not field measurements
